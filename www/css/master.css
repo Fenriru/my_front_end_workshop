@@ -18,10 +18,14 @@ nav {
 }
 
 nav > .item {
-   size: 14pt;
-   color: white;
-   padding: 23px;
-   text-decoration: none;
+    font-size: 14pt;
+    color: white;
+    padding: 23px;
+    text-decoration: none;
+}
+
+nav > .item:hover {
+    opacity: 80%;
 }
 
 /* And continue here */

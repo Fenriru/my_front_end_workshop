@@ -28,4 +28,9 @@ nav > .item:hover {
     opacity: 80%;
 }
 
+nav > .item:last-child {
+    color: #eee;
+    margin-left: auto;
+}
+
 /* And continue here */

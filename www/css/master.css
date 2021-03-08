@@ -3,6 +3,10 @@ body {
     font-family: "Helvetica Neue";
 }
 
+body > .centered {
+    
+}
+
 nav {
     position: fixed;
     top: 0;
@@ -14,7 +18,10 @@ nav {
 }
 
 nav > .item {
-    /* Add code here */
+   size: 14pt;
+   color: white;
+   padding: 23px;
+   text-decoration: none;
 }
 
 /* And continue here */
